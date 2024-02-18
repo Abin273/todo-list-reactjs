@@ -1,3 +1,13 @@
+### VS Code
+
+- Get Visual Studio Code at: [Download and install vscode](https://code.visualstudio.com/Download)
+
+#### install following extension in vscode (its optional)
+
+- ES7 React/Redux/GraphQL/React-Native snippets
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
