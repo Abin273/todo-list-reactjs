@@ -25,10 +25,6 @@ function CompletedTodo({ checkToggle, todos, deleteToggle, editToggle }) {
                                     onClick={() => deleteToggle(id)}
                                     className="delete-icon"
                                 />
-                                <TiEdit
-                                    onClick={() => editToggle(id)}
-                                    className="edit-icon"
-                                />
                             </div>
                         </div>
                     );
